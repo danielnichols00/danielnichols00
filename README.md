@@ -11,9 +11,9 @@ How to reach me:
 
 Other Skills - Foundational understanding
 
-SQL
-AWS
-Networks
+SQL,
+AWS,
+Networks,
 Salesforce CRM
 
 <!--
