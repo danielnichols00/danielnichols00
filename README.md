@@ -1,13 +1,15 @@
 ## Hi, I'm Daniel
 
-- I’m currently working on building an educational Minecraft mod! I'm using it to develop strong long-term development habits—version control, documentation, feature planning—as well as to strengthen my object-oriented programming skills.
+I am a recent graduate from Queensland University of Technology and am eager to start my career in software development.
+
+- I’m currently working on building an educational Minecraft mod! I'm using it to develop strong long-term development habits, version control, documentation, feature planning—as well as to strengthen my object-oriented programming skills.
 - I’m currently learning Java and C#, and continuing to grow my skills in web development technologies, frameworks, and backend logic.
 - I’m looking for help with using GitHub collaboratively, understanding more advanced Git workflows, and expanding my knowledge of how to structure larger projects effectively.
 
 How to reach me:
 Email: daniel.nichols.98@gmail.com
 
-Other Skills (baseline familiarity)
+Other Skills - Foundational understanding
 
 SQL
 AWS
