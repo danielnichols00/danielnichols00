@@ -7,7 +7,7 @@ I am a recent graduate from Queensland University of Technology and am eager to 
 - I’m looking for help with using GitHub collaboratively, understanding more advanced Git workflows, and expanding my knowledge of how to structure larger projects effectively.
 
 How to reach me:
-Email: daniel.nichols.98@gmail.com
+ daniel.nichols.98@gmail.com
 
 Other Skills - Foundational understanding
 
