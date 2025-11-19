@@ -2,7 +2,7 @@
 
 I am a recent graduate from Queensland University of Technology and am eager to start my career in software development. My degree is in Information Technology majoring in Computer Science.
 
-- I’m currently working on building an educational Minecraft mod! I'm using it to develop strong long-term development habits, version control, documentation, feature planning—as well as to strengthen my object-oriented programming skills.
+- I’m currently working on building an educational Minecraft mod! I'm using it to develop strong long-term development habits, version control, documentation, feature planning, as well as to strengthen my object-oriented programming skills.
 - I’m currently learning Java and C#, and continuing to grow my skills in web development technologies, frameworks, and backend logic.
 - I’m looking for help with using GitHub collaboratively, understanding more advanced Git workflows, and expanding my knowledge of how to structure larger projects effectively.
 
