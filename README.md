@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel
 
-I am a recent graduate from Queensland University of Technology and am eager to start my career in software development.
+I am a recent graduate from Queensland University of Technology and am eager to start my career in software development. My degree is in Information Technology majoring in Computer Science.
 
 - I’m currently working on building an educational Minecraft mod! I'm using it to develop strong long-term development habits, version control, documentation, feature planning—as well as to strengthen my object-oriented programming skills.
 - I’m currently learning Java and C#, and continuing to grow my skills in web development technologies, frameworks, and backend logic.
@@ -11,10 +11,10 @@ How to reach me:
 
 Other Skills - Foundational understanding
 
-SQL,
-AWS,
-Networks,
-Salesforce CRM
+- SQL
+- AWS
+- Networks
+- Salesforce CRM
 
 <!--
 **danielnichols00/danielnichols00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
